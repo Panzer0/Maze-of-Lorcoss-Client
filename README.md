@@ -1,7 +1,6 @@
 # Multithreaded-game-client
 
-The client side of the game. An active server (https://github.com/Panzer0/Multithreaded-game-server) is required in order for the client to function properly.   
-The game utilises ncurses, a terminal-oriented C library.   
+The client side of the game. An active server (https://github.com/Panzer0/Multithreaded-game-server) is required in order for the client to function properly. The game utilises ncurses, a terminal-oriented C library.   
 Since the entirety of the game is played through a terminal, its graphics are made up of ASCII symbols, much like the old-school classics. 
 
 The goal of the game is to traverse a maze in search of different types of treasure.    
